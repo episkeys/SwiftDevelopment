@@ -1,2 +1,2 @@
 # SwiftDevelopment
-SwiftUI Projects
+Fundamentals of Swift and SwiftUI Projects
